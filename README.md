@@ -1,6 +1,6 @@
 # WSB_Scraping
 
-Personal project to scrape data from /r wallstreetbets 
+Personal project to scrape data from r/wallstreetbets 
 
 Created using PostgresSQL and Python
 
