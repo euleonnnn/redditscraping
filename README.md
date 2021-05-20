@@ -16,5 +16,6 @@ APIs used include Alpaca API (for ticker symbols) and Reddit API
 
 2. To see the most mentioned stock tickers, run the following: 
 ```
-select count(*) as num_mentions, stock_id, symbol from mention join sstock on stock.id == mention.stock_id group by stock_id, symbol order by num_mentions DESC
+select count(*) as num_mentions, stock_id, symbol from mention join sstock on stock.id == mention.stock_id 
+group by stock_id, symbol order by num_mentions DESC
 ```
