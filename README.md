@@ -1,5 +1,7 @@
 # WSB Scraping
 
+Credits: https://www.youtube.com/watch?v=CJAdCLZaISw&t=1710s
+
 ## Personal project to scrape data from r/wallstreetbets 
 
 
