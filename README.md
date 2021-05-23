@@ -13,7 +13,7 @@ APIs used include Alpaca API (for ticker symbols) and Reddit API
 
 
 
-1. Execute search_wsb.py to insert tickers mentioned in reddit submissiosn into the database 
+1. Run search_wsb.py to insert tickers mentioned in reddit submissiosn into the database 
 
 
 2. To see the most mentioned stock tickers, run the following in postgresSQL: 
